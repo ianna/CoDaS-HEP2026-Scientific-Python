@@ -1,1 +1,1 @@
-# CoDaS-HEP2026-Scientific-Python
+# CoDaS-HEP2026: Scientific Python
