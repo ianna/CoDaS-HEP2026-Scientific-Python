@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter server extension enable marimo_jupyter_extension
