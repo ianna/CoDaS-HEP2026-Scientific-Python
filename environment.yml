@@ -2,7 +2,7 @@ name: name = codas-hep-2026-scientific-python-tutorial
 channels:
   - conda-forge
 dependencies:
-  - python=3.13.5
+  - python=3.13.8
   - pip
   - pyarrow==20.0.0
   - numpy==2.2.6
