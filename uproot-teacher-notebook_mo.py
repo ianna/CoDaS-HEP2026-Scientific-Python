@@ -1,14 +1,7 @@
-# /// script
-# requires-python = ">=3.13"
-# dependencies = [
-#     "marimo>=0.23.13",
-# ]
-# ///
-
 import marimo
 
-__generated_with = "0.23.13"
-app = marimo.App()
+__generated_with = "0.23.8"
+app = marimo.App(layout_file="layouts/uproot-teacher-notebook.slides.json")
 
 
 @app.cell(hide_code=True)
