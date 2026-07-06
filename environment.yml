@@ -2,9 +2,8 @@ name: name = codas-hep-2026-scientific-python-tutorial
 channels:
   - conda-forge
 dependencies:
-  - marimo[sandbox]>=0.23.9
-  - marimo-jupyter-extension
   - python=3.13.5
+  - pip
   - pyarrow==20.0.0
   - numpy==2.2.6
   - matplotlib==3.10.3
@@ -27,3 +26,8 @@ dependencies:
   - fsspec-xrootd==0.5.1
   - aiohttp==3.12.13
   - fastjet==3.5.0.1
+  - pip:
+    - marimo[sandbox]>=0.23.9
+    - marimo-jupyter-extension
+
+  
