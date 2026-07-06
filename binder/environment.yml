@@ -17,7 +17,7 @@ dependencies:
   - awkward==2.10.0
   - awkward-cpp==54
   - uproot==5.7.5
-  - skhep_testdata
+  - scikit-hep-testdata
   - vector==1.7.0
   - particle==0.25.4
   - awkward-pandas==2023.8.0
