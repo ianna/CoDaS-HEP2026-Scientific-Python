@@ -26,5 +26,5 @@ dependencies:
   - fastjet==3.5.0.1
   - zipp !=3.23.0
   - pip:
-      - marimo[sandbox]>=0.23.9
-      - marimo-jupyter-extension
+      - cupy-cuda13x
+      - cuda-cccl[cu13]
